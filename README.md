@@ -2,6 +2,26 @@
 
 ###
 
+<br clear="both">
+
+<h6 align="left">I’m a Computer Science student at SRM University, based in Chennai, India. I love exploring tech, building cool projects, and sharing what I learn.</h6>
+
+###
+
+<h3 align="left">🔭 Currently working on:</h3>
+
+###
+
+<h6 align="left">Smart Waste Segregation System:<br>     An IoT and Big Data powered project that automatically sorts waste and optimizes collection.<br><br>   University Event App UI/UX Redesign:<br>Crafted a polished on boarding flow and dashboard interface focused on clarity, accessibility, and user delight.</h6>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🛠️ Skills & Tools:</h3>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
@@ -44,6 +64,10 @@
 
 ###
 
+<h3 align="left">📫 How to reach me:</h3>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ashmit-singh-085544324/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=whit&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -58,6 +82,10 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">📈 Contributions & Community:</h3>
 
 ###
 
