@@ -195,7 +195,7 @@ class Ashmit(Developer, MLEngineer, Explorer):
   🎨  University Event App — finalizing design system & handoff
   🤖  Deepening PyTorch & building end-to-end ML pipelines
   🧠  Self-studying: Probability Theory, Distributed Systems, Algorithms
-  🎯  Goal 2025: Land an ML / SWE internship + first open-source contribution
+  🎯  Goal 2026: Land an ML / SWE internship + first open-source contribution
   📜  Completed: IBM Introduction to Data Analytics (Coursera)
 ```
 
