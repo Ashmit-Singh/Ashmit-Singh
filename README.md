@@ -50,42 +50,46 @@ class Ashmit(Developer, MLEngineer, Explorer):
 <tr>
 <td width="50%" valign="top">
 
-### ♻️ Smart Waste Segregation System
-> Autonomous waste classification & collection optimization powered by IoT and Big Data
+### 🛡️ [Drug Safety Guard](https://github.com/Ashmit-Singh/drug-safety-guard)
+> Production-grade clinical decision support system for real-time drug interaction detection
 
-**The Problem:** Manual waste sorting is slow, error-prone, and unscalable in dense urban environments.
+**The Problem:** Harmful drug combinations reach patients because prescription systems don't check interactions at the ingredient level — they only flag known brand pairs.
 
-**The Solution:** A sensor-driven pipeline that classifies waste in real-time, feeds data to a cloud analytics layer, and dynamically optimizes garbage collection routes.
+**The Solution:** A full-stack system that runs an O(n²·m²) ingredient-pair algorithm across every drug in a prescription, fires real-time safety alerts via PostgreSQL triggers, and gives doctors a live warning dashboard before they sign off.
 
-**Impact:**
-- 🔌 Multi-sensor classification with automated sorting actuation
-- 📊 Live analytics dashboard with waste volume trends
-- 🗺️ Route optimization reducing collection overhead
-- ☁️ Cloud-connected, horizontally scalable architecture
+**Highlights:**
+- 💊 Ingredient-level detection — 4 severity tiers: Mild → Contraindicated
+- ⚡ Redis caching (24h TTL) for sub-millisecond interaction lookups
+- 📋 HIPAA-compliant audit trail via Cassandra with 2-year retention
+- 🔐 Supabase RLS across 14 tables + JWT auth + Zod-validated endpoints
+- 🐳 Fully containerised — Docker Compose + Kubernetes manifests + CI/CD
 
-![IoT](https://img.shields.io/badge/IoT-black?style=flat-square&logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 University Event App — UI/UX Redesign
-> Reimagining the student experience from the ground up
+### 📷 [QR Scanner](https://github.com/Ashmit-Singh/qr_scanner)
+> Cross-platform QR code scanner built with Flutter — deployed live on the web
 
-**The Problem:** Existing university event platforms feel clunky, inaccessible, and visually dated — students simply don't use them.
+**The Problem:** Most QR scanner apps are native-only or bloated with unnecessary permissions and ads.
 
-**The Solution:** A complete UX overhaul focused on clarity, delight, and accessibility. Redesigned the full onboarding flow and core dashboard from scratch.
+**The Solution:** A clean, fast, cross-platform Flutter app that scans QR codes on Android, iOS, Linux, macOS, and Web — with a live deployment on Vercel.
 
-**Impact:**
-- 🎨 Zero-friction onboarding — oriented in under 60 seconds
-- 📱 Mobile-first, accessibility-first dashboard
-- ♿ WCAG-compliant design decisions throughout
-- ✨ Micro-interactions that make the app feel alive
+**Highlights:**
+- 📱 Truly cross-platform — runs on 5 platforms from a single codebase
+- 🌐 Live web deployment at [qr-scanner-nu-six.vercel.app](https://qr-scanner-nu-six.vercel.app)
+- ⚡ Lightweight and fast — no bloat, no unnecessary permissions
+- 🎯 Clean Material UI — straightforward, no-nonsense experience
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
@@ -195,7 +199,7 @@ class Ashmit(Developer, MLEngineer, Explorer):
   🎨  University Event App — finalizing design system & handoff
   🤖  Deepening PyTorch & building end-to-end ML pipelines
   🧠  Self-studying: Probability Theory, Distributed Systems, Algorithms
-  🎯  Goal 2026: Land an ML / SWE internship + first open-source contribution
+  🎯  Goal 2025: Land an ML / SWE internship + first open-source contribution
   📜  Completed: IBM Introduction to Data Analytics (Coursera)
 ```
 
