@@ -1,81 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:A855F7&height=200&section=header&text=Ashmit%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20ML%2C%20Systems%20%26%20Design&descAlignY=58&descSize=15&descColor=C4B5FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashmit%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Designer%20%E2%80%A2%20Explorer&descAlignY=55&descSize=16"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=700&lines=ML+%26+Data+Science+Engineer+%F0%9F%A4%96;Flutter+Mobile+Developer+%F0%9F%93%B1;Computer+Vision+%26+OpenCV+%F0%9F%91%81%EF%B8%8F;IoT+%2B+Big+Data+Builder+%F0%9F%9B%B0%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=ML+%26+Computer+Vision+Engineer+%F0%9F%A4%96;Flutter+%2B+Full-Stack+Developer+%F0%9F%93%B1;IoT+%2B+Big+Data+Systems+Builder+%F0%9F%9B%B0%EF%B8%8F;Clinical+Decision+Support+%E2%80%94+Drug+Safety+Guard+%F0%9F%9B%A1%EF%B8%8F;B.Tech+CS+%40+SRM+IST+%7C+CGPA+8.90+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmitsingh04112005/)
-[![ProtonMail](https://custom-icon-badges.demolab.com/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:connect.ashmit.singh@proton.me)
-[![Outlook](https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:connect.ashmit.singh@outlook.com)
-[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.ashmit.uwu)
-[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashmit-Singh)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ashmit-Singh&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+<p>
+  <a href="https://www.linkedin.com/in/ashmitsingh04112005/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:connect.ashmit.singh@proton.me"><img src="https://img.shields.io/badge/-ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white"/></a>
+  <a href="mailto:connect.ashmit.singh@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/https.ashmit.uwu"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ashmit-Singh&color=A855F7&style=flat-square&label=Profile+Views"/>
+</p>
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+## `> whoami`
 
 ```python
-class Ashmit(Developer, MLEngineer, Designer):
+class Ashmit(Developer, MLEngineer, Explorer):
 
     location    = "Lucknow, India 🇮🇳"
-    education   = "B.Tech CS @ SRM IST (2024–2028) | CGPA: 8.90"
+    education   = "B.Tech CS @ SRM IST  (2024 – 2028)  |  CGPA: 8.90 / 10"
 
-    experience  = "Mobile App Dev Intern @ Singsys Pvt. Ltd."
-    stack       = ["Python", "Flutter/Dart", "Node.js", "PyTorch"]
-    domains     = ["Machine Learning", "Computer Vision", "IoT + Big Data"]
-
+    focus       = ["Machine Learning", "Computer Vision", "Flutter Dev", "IoT & Big Data"]
+    experience  = ["Mobile App Dev Intern @ Singsys Pvt. Ltd. (Flutter, Dart, REST APIs)"]
     building    = ["Drug Safety Guard", "Smart Waste Segregation System"]
-    learning    = ["MLOps", "Distributed Systems", "Advanced Algorithms"]
+    learning    = ["PyTorch", "MLOps Pipelines", "Distributed Systems", "Advanced Algorithms"]
 
     fun_facts   = [
-        "I design the UI before writing a single line of code",
-        "My best debug sessions happen at 2am with lo-fi playing 🎧",
-        "I once refactored a layout just because the padding felt wrong",
+        "I design the interface before I write a single line of code",
+        "I believe clean UX is an act of empathy",
+        "My best debugging sessions happen at 2am with lo-fi playing",
+        "I once refactored a UI just because the padding felt wrong",
     ]
-    motto       = "Build it. Break it. Make it better. 🚀"
+
+    mission     = "Build technology that is intuitive, scalable, and actually useful."
+    motto       = "Build it. Break it. Make it better."
 ```
 
-<br clear="right"/>
+> *I'm a second-year CS student at the intersection of **machine learning**, **mobile development**, and **design thinking**. I've shipped production Flutter screens at Singsys, trained computer vision models with YOLOv8, and obsessed over pixel-perfect UX — sometimes all in the same week. I care about the full picture: from the math behind the model to the feel of the interface.*
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Featured Projects
-
-<a href="https://github.com/Ashmit-Singh/drug-safety-guard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashmit-Singh&repo=drug-safety-guard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD" />
-</a>
-<a href="https://github.com/Ashmit-Singh/qr_scanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashmit-Singh&repo=qr_scanner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD" />
-</a>
-
-<br/><br/>
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Drug Safety Guard
-> Production-grade clinical decision support system
+### 🛡️ [Drug Safety Guard](https://github.com/Ashmit-Singh/drug-safety-guard)
+> Production-grade clinical decision support system for real-time drug interaction detection
 
-- 💊 Ingredient-level O(n²·m²) interaction detection
-- ⚡ Redis caching for sub-ms lookups (24h TTL)
-- 🔐 HIPAA audit trail via Cassandra (2-year retention)
-- 🐳 Docker + K8s + CI/CD — fully production-ready
-- 🔑 Supabase RLS across 14 tables + JWT + Zod
+**The Problem:** Harmful drug combinations reach patients because prescription systems don't check interactions at the ingredient level — they only flag known brand pairs.
+
+**The Solution:** A full-stack system that runs an O(n²·m²) ingredient-pair algorithm across every drug in a prescription, fires real-time safety alerts via PostgreSQL triggers, and gives doctors a live warning dashboard before they sign off.
+
+**Highlights:**
+- 💊 Ingredient-level detection — 4 severity tiers: Mild → Contraindicated
+- ⚡ Redis caching (24h TTL) for sub-millisecond interaction lookups
+- 📋 HIPAA-compliant audit trail via Cassandra with 2-year retention
+- 🔐 Supabase RLS across 14 tables + JWT auth + Zod-validated endpoints
+- 🐳 Fully containerised — Docker Compose + Kubernetes manifests + CI/CD
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -87,15 +74,18 @@ class Ashmit(Developer, MLEngineer, Designer):
 </td>
 <td width="50%" valign="top">
 
-### 📷 QR Scanner
-> Cross-platform Flutter QR scanner · Live on Vercel
+### 📷 [QR Scanner](https://github.com/Ashmit-Singh/qr_scanner)
+> Cross-platform Flutter QR scanner — deployed live on the web
 
-- 📱 Runs on Android, iOS, Linux, macOS & Web
-- 🌐 Deployed live → [qr-scanner-nu-six.vercel.app](https://qr-scanner-nu-six.vercel.app)
-- ⚡ One codebase, five platforms — zero bloat
-- 🎯 Clean Material UI, no unnecessary permissions
+**The Problem:** Most QR scanner apps are native-only or bloated with unnecessary permissions and ads.
 
-<br/>
+**The Solution:** A clean, fast, cross-platform Flutter app that scans QR codes on Android, iOS, Linux, macOS, and Web — with a live deployment on Vercel.
+
+**Highlights:**
+- 📱 Truly cross-platform — runs on 5 platforms from a single codebase
+- 🌐 Live web deployment at [qr-scanner-nu-six.vercel.app](https://qr-scanner-nu-six.vercel.app)
+- ⚡ Lightweight and fast — no bloat, no unnecessary permissions
+- 🎯 Clean Material UI — straightforward, no-nonsense experience
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -107,68 +97,111 @@ class Ashmit(Developer, MLEngineer, Designer):
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,java,dart,r,js,ts,latex&theme=dark&perline=8" />
+### 🏢 Singsys Private Limited — Mobile App Developer Intern
+> `Flutter` · `Dart` · `REST APIs` · `Material Design` &nbsp;&nbsp; **2025 · Lucknow, India**
 
-### ML & Data Science
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark&perline=8" />
+- 🖥️ Designed and implemented multiple responsive UI screens in Flutter, adhering to Material Design guidelines — improving visual consistency across the entire app
+- 🔗 Integrated RESTful APIs to fetch, parse, and display live backend data; managed async state and error handling using Flutter's built-in patterns
+- 🐛 Diagnosed and resolved UI/logic bugs through systematic testing across device configurations, contributing to a stable production release
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-333333?style=for-the-badge&logo=google&logoColor=white)
-
-### Mobile & Backend
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,django,express&theme=dark&perline=8" />
-
-### Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,redis&theme=dark&perline=8" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark&perline=8" />
-
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-
-### Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&theme=dark&perline=8" />
-
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-### Design
-<img src="https://skillicons.dev/icons?i=figma,illustrator,inkscape,canva&theme=dark&perline=8" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-<div align="center">
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 
-| | Role | Company | Stack | Year |
-|---|---|---|---|---|
-| 🏢 | **Mobile App Developer Intern** | Singsys Private Limited | Flutter · Dart · REST APIs | 2025 |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-</div>
+</details>
 
-Built and shipped responsive Flutter UI screens, integrated RESTful APIs with async state management, and resolved cross-device bugs contributing to a stable production release.
+<details open>
+<summary><b>ML & Data Science</b></summary>
+<br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Computer Vision</b></summary>
+<br>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-333333?style=for-the-badge&logo=google&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Mobile Development</b></summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Dev Tools & Environment</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Design & Creative</b></summary>
+<br>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</details>
 
 ---
 
 ## 📡 Currently
 
 ```
-  ██████████████████░░  90%  🔨  Drug Safety Guard — hardening security layer + writing tests
-  ████████████░░░░░░░░  60%  🤖  Deep-diving PyTorch — building end-to-end CV pipelines
-  ████████░░░░░░░░░░░░  40%  📖  Self-studying: Distributed Systems + Advanced Algorithms
-  ██████░░░░░░░░░░░░░░  30%  🎯  Target: ML / SWE internship + first open-source contribution
-  ██████████████████░░  90%  📜  IBM Data Analytics cert ✅ — next: cloud certification
+  Status: [ ██████████████░░░░░░ ] Building in public
+
+  🔨  Drug Safety Guard — hardening security layer + writing tests
+  🤖  Deepening PyTorch & building end-to-end ML pipelines
+  🧠  Self-studying: Probability Theory, Distributed Systems, Algorithms
+  🎯  Goal 2025: Land an ML / SWE internship + first open-source contribution
+  📜  Completed: IBM Introduction to Data Analytics (Coursera)
 ```
 
 ---
@@ -177,34 +210,20 @@ Built and shipped responsive Flutter UI screens, integrated RESTful APIs with as
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ashmit-Singh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&rank_icon=github&show=prs_merged,reviews"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ashmit-Singh&show_icons=true&hide_border=false&title_color=7C3AED&icon_color=7C3AED&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashmit-Singh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&rank_icon=github" height="170"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Singh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Singh&layout=compact&hide_border=false&title_color=7C3AED&langs_count=8"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Singh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" height="170"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashmit-Singh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Singh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ashmit-Singh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888&border_radius=8)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Ashmit-Singh&theme=transparent&hide_border=true&border_radius=8&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888" height="150"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashmit-Singh&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashmit-Singh&theme=tokyonight&column=7&row=1&margin-w=6&no-frame=true&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app?username=Ashmit-Singh&theme=tokyonight&column=7&row=1&margin-w=6&no-frame=true"/>
 
 </div>
 
@@ -214,35 +233,19 @@ Built and shipped responsive Flutter UI screens, integrated RESTful APIs with as
 
 <div align="center">
 
-*"Most people treat design as the last layer of polish.*
-*I treat it as the first layer of engineering."*
+*"Most people think of design as the last layer of polish.*
+*I think of it as the first layer of engineering."*
 
 </div>
 
 ```
   Things I actually believe:
-  ├── Readable code > clever code. Every single time.
+  ├── Readable code > clever code. Always.
   ├── If the UX needs a tutorial, the design failed.
-  ├── Ship fast. But never ship broken.
+  ├── Shipping beats perfecting. But quality is non-negotiable.
   ├── The best systems are invisible — they just work.
-  └── Build for humans first. Then optimize for machines.
+  └── Build for humans first. Optimize for machines second.
 ```
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎓 | **CGPA 8.90 / 10** — B.Tech CS, SRM IST (2nd year) |
-|---|---|
-| 🏢 | **Industry Intern** — Flutter Dev @ Singsys Pvt. Ltd. |
-| 📜 | **IBM Certified** — Introduction to Data Analytics (Coursera, 2024) |
-| 🔬 | **Self-Directed Learner** — ML, Probability Theory, Linear Algebra, DSA beyond curriculum |
-| 🌍 | **Open Source Builder** — Clean commits, structured READMEs, modular code |
-| 🤝 | **Community** — Active in student ML & DS communities; peer code review & knowledge sharing |
-
-</div>
 
 ---
 
@@ -250,14 +253,14 @@ Built and shipped responsive Flutter UI screens, integrated RESTful APIs with as
 
 <div align="center">
 
-*Open to ML / Data Science & Software Engineering internships, research collaborations, and conversations about interesting problems.*
+*Open to ML / Data Science & Software Engineering internships, collaborations, and conversations about interesting problems.*
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmitsingh04112005/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-Drop%20a%20line-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:connect.ashmit.singh@proton.me)
-[![Outlook](https://img.shields.io/badge/Outlook-Reach%20out-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:connect.ashmit.singh@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Say%20hi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.ashmit.uwu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmitsingh04112005/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-Drop_a_line-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:connect.ashmit.singh@proton.me)
+[![Outlook](https://img.shields.io/badge/Outlook-Reach_out-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:connect.ashmit.singh@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Say_hi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.ashmit.uwu)
 
 </div>
 
@@ -265,11 +268,8 @@ Built and shipped responsive Flutter UI screens, integrated RESTful APIs with as
 
 <div align="center">
 
-<img src="https://github.com/Ashmit-Singh/Ashmit-Singh/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
-<img src="https://github.com/Ashmit-Singh/Ashmit-Singh/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="contribution snake"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
