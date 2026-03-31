@@ -60,7 +60,7 @@ End-to-end document intelligence: YOLOv8 detects and localises regions, OpenCV h
 ---
 
 ### 🔍 [Semantic Search](https://github.com/Ashmit-Singh)
-Dense retrieval over custom corpora using FAISS and Sentence Transformers. Indexes embeddings locally for fast approximate nearest-neighbour search without a vector DB dependency.
+Dense retrieval over custom corpora using FAISS and Sentence Transformers. Indexes embeddings locally for fast approximate nearest-neighbour search without a vector DB dependency .
 
 `FAISS` `Sentence Transformers` `Python`
 
